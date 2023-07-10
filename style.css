@@ -1,0 +1,27 @@
+body{
+    background-image: radial-gradient(circle at 0% 0%, #ffbe00 0, #fbc700 6.25%, #e6cf00 12.5%, #cfd600 18.75%, #b8dc00 25%, #9ee100 31.25%, #80e600 37.5%, #5bea00 43.75%, #0ced33 50%, #00f050 56.25%, #00f26a 62.5%, #00f484 68.75%, #00f69d 75%, #00f7b6 81.25%, #00f8cf 87.5%, #00f8e8 93.75%, #00f8ff 100%);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+
+    background-color: #65fc0000;
+    border: 2px solid #2f00ff;
+    text-align: center;
+    
+}
